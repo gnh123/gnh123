@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @gnh123
-- 专注源码阅读.
+- 刻意练习
+- 1w小时定律
 
 <!---
 gnh123/gnh123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
